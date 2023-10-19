@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-int all_files;
+static int all_files;
 
 int main(void)
 { 
